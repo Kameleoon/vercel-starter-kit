@@ -5,7 +5,7 @@ description: Kameleoon can provide experimentation and feature flagging. In this
 framework: Next.js
 useCase: Edge Middleware
 css: Tailwind
-deployUrl: https://vercel.com/new/clone?repository-url=https://github.com/kameleoon/vercel-starter-kit/tree/main&env=KAMELEOON_SITE_CODE&project-name=feature-flag-kameleoon&repository-name=feature-flag-kameleoon
+deployUrl: https://vercel.com/new/clone?repository-url=https://github.com/kameleoon/vercel-starter-kit/tree/main&env=KAMELEOON_SITE_CODE,EDGE_CONFIG&project-name=feature-flag-kameleoon&repository-name=feature-flag-kameleoon
 demoUrl: https://feature-flag-kameleoon.vercel.app
 ---
 
@@ -23,7 +23,7 @@ You can choose from one of the following two methods to use this repository:
 
 Note: Before clicking Deploy, follow the section [Set up Kameleoon](#setup-kameleoon) to create an account, set up feature flags and obtain the Kameleoon `siteCode`.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kameleoon/vercel-starter-kit/tree/main&env=KAMELEOON_SITE_CODE&project-name=feature-flag-kameleoon&repository-name=feature-flag-kameleoon)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kameleoon/vercel-starter-kit/tree/main&env=KAMELEOON_SITE_CODE,EDGE_CONFIG&project-name=feature-flag-kameleoon&repository-name=feature-flag-kameleoon)
 
 ### Clone and Deploy
 
